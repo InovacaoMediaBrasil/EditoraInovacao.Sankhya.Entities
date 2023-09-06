@@ -1,2 +1,5 @@
-# EditoraInovacao.Sankhya.Entities
-:clipboard: :game_die: Customized Sankhya entities for Editora Inovação 
+# Editora Inovação Sankhya Entities
+
+Sankhya custom entities for Editora Inovação
+
+![logo.png](logo.png)
