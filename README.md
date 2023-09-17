@@ -3,11 +3,7 @@
 [![wakatime](https://wakatime.com/badge/github/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities.svg)](https://wakatime.com/badge/github/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
 [![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
 [![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/main)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
-
-[![Build & Bump Version](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/build-bump-version.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/build-bump-version.yml)
-[![Build & Deploy](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/build-deploy.yml)
 [![Linter check](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/linter.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/linter.yml)
-[![Update packages](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/update-packages.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/update-packages.yml)
 
 ![logo.png](logo.png)
 
