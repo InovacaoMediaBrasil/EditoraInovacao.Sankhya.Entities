@@ -32,4 +32,3 @@ jobs:
 
       - name: Run tests
         run: dotnet test -c Debug --no-build --no-restore
- 
