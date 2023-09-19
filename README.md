@@ -7,7 +7,7 @@
 
 ![logo.png](logo.png)
 
-Sankhya Custom Entities library
+Sankhya custom entities library
 
 ---
 
