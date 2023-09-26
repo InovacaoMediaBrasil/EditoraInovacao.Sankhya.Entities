@@ -33,5 +33,5 @@ updates:
   reviewers: 
     - "guibranco"
   labels:
-    - "github_actions"
+    - "github-actions"
     - "dependencies"
