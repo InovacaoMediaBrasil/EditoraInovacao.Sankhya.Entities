@@ -15,6 +15,7 @@
 using System;
 using System.ComponentModel;
 using System.Diagnostics.CodeAnalysis;
+using CrispyWaffle.Serialization;
 using CrispyWaffle.Extensions;
 using Sankhya.Attributes;
 using Sankhya.Transport;
@@ -28,6 +29,8 @@ namespace EditoraInovacao.Sankhya.Entities.Transport;
 /// </summary>
 /// <seealso cref="Partner" />
 /// <seealso cref="IEquatable{PartnerCustom}" />
+[Serializer]
+[Entity("Parceiro")]
 public sealed class PartnerCustom : Partner, IEquatable<PartnerCustom>
 {
     #region Equality members
