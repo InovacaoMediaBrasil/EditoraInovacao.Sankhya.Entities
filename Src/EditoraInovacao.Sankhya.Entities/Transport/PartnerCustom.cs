@@ -28,6 +28,8 @@ namespace EditoraInovacao.Sankhya.Entities.Transport;
 /// </summary>
 /// <seealso cref="Partner" />
 /// <seealso cref="IEquatable{PartnerCustom}" />
+[Entity("Parceiro")]
+[Serializer]
 public sealed class PartnerCustom : Partner, IEquatable<PartnerCustom>
 {
     #region Equality members
