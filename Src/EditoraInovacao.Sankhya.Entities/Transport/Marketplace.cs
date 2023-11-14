@@ -254,9 +254,9 @@ public class Marketplace : IEntity, IEquatable<Marketplace>
                 (hashCode * 397)
                 ^ (
                     _technicalSpecification != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _technicalSpecification
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_technicalSpecification)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _technicalSpecificationSet.GetHashCode();

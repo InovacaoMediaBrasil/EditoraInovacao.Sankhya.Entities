@@ -334,10 +334,9 @@ public class ProductCustom : Product, IEquatable<ProductCustom>
             _description =
                 value == null
                     ? null
-                    : ProductValidation.InvalidDescriptionPattern.Replace(
-                        value.Replace(@"${nl}", @"\r\n"),
-                        ""
-                    );
+                    : ProductValidation
+                        .InvalidDescriptionPattern
+                        .Replace(value.Replace(@"${nl}", @"\r\n"), "");
             _descriptionSet = true;
         }
     }
