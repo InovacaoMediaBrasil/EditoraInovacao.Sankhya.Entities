@@ -225,9 +225,9 @@ public class OrderImportPending : IEntity, IEquatable<OrderImportPending>
                 (hashCode * 397)
                 ^ (
                     _partnerCorporateName != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _partnerCorporateName
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_partnerCorporateName)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _partnerCorporateNameSet.GetHashCode();

@@ -120,9 +120,9 @@ public class InvoiceHeaderCustom : InvoiceHeader, IEquatable<InvoiceHeaderCustom
                 (hashCode * 397)
                 ^ (
                     _creditCardAuthorizationCode != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _creditCardAuthorizationCode
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_creditCardAuthorizationCode)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _creditCardAuthorizationCodeSet.GetHashCode();
@@ -130,9 +130,9 @@ public class InvoiceHeaderCustom : InvoiceHeader, IEquatable<InvoiceHeaderCustom
                 (hashCode * 397)
                 ^ (
                     _creditCardLastFourDigits != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _creditCardLastFourDigits
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_creditCardLastFourDigits)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _creditCardLastFourDigitsSet.GetHashCode();
@@ -140,9 +140,9 @@ public class InvoiceHeaderCustom : InvoiceHeader, IEquatable<InvoiceHeaderCustom
                 (hashCode * 397)
                 ^ (
                     _creditCardTransaction != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _creditCardTransaction
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_creditCardTransaction)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _creditCardTransactionSet.GetHashCode();

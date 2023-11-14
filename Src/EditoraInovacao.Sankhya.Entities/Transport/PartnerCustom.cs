@@ -15,8 +15,8 @@
 using System;
 using System.ComponentModel;
 using System.Diagnostics.CodeAnalysis;
-using CrispyWaffle.Serialization;
 using CrispyWaffle.Extensions;
+using CrispyWaffle.Serialization;
 using Sankhya.Attributes;
 using Sankhya.Transport;
 

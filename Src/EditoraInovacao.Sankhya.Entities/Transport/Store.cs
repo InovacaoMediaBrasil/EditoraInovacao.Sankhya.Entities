@@ -250,9 +250,9 @@ public class Store : IEntity, IUpdateable, IEquatable<Store>
                 (hashCode * 397)
                 ^ (
                     _telephoneCustomerService != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _telephoneCustomerService
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_telephoneCustomerService)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _telephoneCustomerServiceSet.GetHashCode();
@@ -260,9 +260,9 @@ public class Store : IEntity, IUpdateable, IEquatable<Store>
                 (hashCode * 397)
                 ^ (
                     _emailCustomerService != null
-                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
-                            _emailCustomerService
-                        )
+                        ? StringComparer
+                            .InvariantCultureIgnoreCase
+                            .GetHashCode(_emailCustomerService)
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _emailCustomerServiceSet.GetHashCode();
