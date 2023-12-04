@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="CrispyWaffle" Version="4.3.114" />
-    <PackageReference Include="Sankhya" Version="2.0.690" />
+    <PackageReference Include="Sankhya" Version="2.0.724" />
   </ItemGroup>
 
 </Project>
