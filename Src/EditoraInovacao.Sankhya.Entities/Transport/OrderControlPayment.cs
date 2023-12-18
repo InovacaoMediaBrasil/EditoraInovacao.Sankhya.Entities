@@ -290,9 +290,9 @@ public class OrderControlPayment : IEntity, IEquatable<OrderControlPayment>
                 (hashCode * 397)
                 ^ (
                     _authenticationNumber != null
-                        ? StringComparer
-                            .InvariantCultureIgnoreCase
-                            .GetHashCode(_authenticationNumber)
+                        ? StringComparer.InvariantCultureIgnoreCase.GetHashCode(
+                            _authenticationNumber
+                        )
                         : 0
                 );
             hashCode = (hashCode * 397) ^ _authenticationNumberSet.GetHashCode();
