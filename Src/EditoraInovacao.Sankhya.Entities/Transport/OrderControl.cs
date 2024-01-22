@@ -1460,18 +1460,15 @@ public class OrderControl : IEntity, IEquatable<OrderControl>
     public OrderControl AddPayment(OrderControlPayment payment)
     {
         if (
-            _payments.Any(
-                p =>
-                    p.TransactionCode == payment.TransactionCode
-                    && p.PaymentCode == payment.PaymentCode
+            _payments.Any(p =>
+                p.TransactionCode == payment.TransactionCode && p.PaymentCode == payment.PaymentCode
             )
         )
         {
             _payments.Remove(
-                _payments.Single(
-                    p =>
-                        p.TransactionCode == payment.TransactionCode
-                        && p.PaymentCode == payment.PaymentCode
+                _payments.Single(p =>
+                    p.TransactionCode == payment.TransactionCode
+                    && p.PaymentCode == payment.PaymentCode
                 )
             );
         }
@@ -1489,18 +1486,15 @@ public class OrderControl : IEntity, IEquatable<OrderControl>
     public OrderControl AddShipment(OrderControlShipment shipment)
     {
         if (
-            _shipments.Any(
-                s =>
-                    s.SingleNumber == shipment.SingleNumber
-                    && s.TrackingCode == shipment.TrackingCode
+            _shipments.Any(s =>
+                s.SingleNumber == shipment.SingleNumber && s.TrackingCode == shipment.TrackingCode
             )
         )
         {
             _shipments.Remove(
-                _shipments.Single(
-                    s =>
-                        s.SingleNumber == shipment.SingleNumber
-                        && s.TrackingCode == shipment.TrackingCode
+                _shipments.Single(s =>
+                    s.SingleNumber == shipment.SingleNumber
+                    && s.TrackingCode == shipment.TrackingCode
                 )
             );
         }
