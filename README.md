@@ -1,5 +1,7 @@
 # Editora Inovação - Sankhya Entities
 
+The Nuget package with custom Sankhya entities
+
 [![wakatime](https://wakatime.com/badge/github/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities.svg)](https://wakatime.com/badge/github/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
 [![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
 [![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/main)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
@@ -7,7 +9,7 @@
 
 ![logo.png](logo.png)
 
-Sankhya custom entities library
+The Sankhya custom entities library.
 
 ---
 
