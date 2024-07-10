@@ -1,0 +1,19 @@
+version: 1
+exclude_paths:
+  - "node_modules/"
+  - "vendor/"
+  - "dist/"
+  - ".config/"
+  - ".csharpierrc.yaml"
+  - ".deepsource.toml"
+  - ".dockerignore"
+  - ".gitattributes"
+  - ".githooks/"
+  - ".github/"
+  - ".gitignore"
+  - ".vscode/"
+analyzers:
+  python:
+    enabled: true
+  javascript:
+    enabled: true
