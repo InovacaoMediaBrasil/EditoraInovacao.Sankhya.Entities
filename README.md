@@ -11,6 +11,7 @@ The Nuget package with custom Sankhya entities
 ![logo.png](logo.png)
 
 The Sankhya custom entities library.
+This package is a complement/plugin for the [Sankhya .NET SDK](https://github.com/guibranco/Sankhya-SDK-dotnet) package mapping the custom entities (tables) of Editora Inovação.
 
 ---
 
@@ -29,6 +30,6 @@ dotnet add package EditoraInovacao.Sankhya.Entities
 
 Developed by [Guilherme Branco Stracini](https://www.guilhermebranco.com.br) for [Editora Inovação](https://www.editorainovacao.com.br) 
 
-© 2012 ~ 2023 All rights reserved.
+© 2012 ~ 2024 All rights reserved.
 
 ---
