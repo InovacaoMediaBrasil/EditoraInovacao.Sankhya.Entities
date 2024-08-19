@@ -29,5 +29,5 @@ jobs:
           DEEPSOURCE_DSN: ${{ secrets.DEEPSOURCE_DSN }}
         run: |
           dotnet build -c Debug --verbosity minimal
-          dotnet test -c Debug --verbosity minimal --no-build --no-restore /p:CollectCoverage=true /p:CoverletOutputFormat="cobertura" /p:CoverletOutput='./results/'
-          ./bin/deepsource report --analyzer test-coverage --key csharp --value-file results/coverage.cobertura.xml
+          dotnet test -c Debug --verbosity minimal --no-build --no-restore /p:CollectCoverage=true /p:CoverletOutputFormat="cobertura" /p:CoverletOutput='../Results/'
+          ./bin/deepsource report --analyzer test-coverage --key csharp --value-file Tests/Results/coverage.cobertura.xml
