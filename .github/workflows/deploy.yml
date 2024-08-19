@@ -21,13 +21,13 @@ jobs:
       run: dotnet restore
     
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build -c Release --no-restore
     
     - name: Run tests
-      run: dotnet test --no-restore --verbosity normal
+      run: dotnet test -c Release --no-restore --no-build --verbosity normal
     
     - name: Pack
-      run: dotnet pack --configuration Release --no-restore --output ./nupkg
+      run: dotnet pack -c Release --no-restore --no-build --include-symbols -o ./nupkg -p:PackageVersion=${{ env.fullSemVer }}
     
     - name: Push to NuGet
       run: dotnet nuget push ./nupkg/*.nupkg -k ${{ secrets.NUGET_API_KEY }} -s https://api.nuget.org/v3/index.json
