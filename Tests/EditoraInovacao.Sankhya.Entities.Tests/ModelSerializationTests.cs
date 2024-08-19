@@ -1,5 +1,7 @@
+using System;
+using CrispyWaffle.Serialization;
 using EditoraInovacao.Sankhya.Entities.Transport;
-using Newtonsoft.Json;
+using FluentAssertions;
 using Xunit;
 
 namespace EditoraInovacao.Sankhya.Entities.Tests;
@@ -20,22 +22,19 @@ public class ModelSerializationTests
             IsActive = true,
             IsInPlatform = false,
             DateChanged = DateTime.Now,
-            User = new User
-            { /* initialize properties */
-            },
         };
 
-        var json = JsonConvert.SerializeObject(brand);
-        var deserializedBrand = JsonConvert.DeserializeObject<Brand>(json);
+        var json = (string)brand.GetCustomSerializer(SerializerFormat.Json);
+        var deserializedBrand = brand.GetCustomSerializer(SerializerFormat.Json).Deserialize(json);
 
-        Assert.Equal(brand.Code, deserializedBrand.Code);
-        Assert.Equal(brand.CodeUser, deserializedBrand.CodeUser);
-        Assert.Equal(brand.Name, deserializedBrand.Name);
-        Assert.Equal(brand.Title, deserializedBrand.Title);
-        Assert.Equal(brand.Description, deserializedBrand.Description);
-        Assert.Equal(brand.Keywords, deserializedBrand.Keywords);
-        Assert.Equal(brand.IsActive, deserializedBrand.IsActive);
-        Assert.Equal(brand.IsInPlatform, deserializedBrand.IsInPlatform);
-        Assert.Equal(brand.DateChanged, deserializedBrand.DateChanged);
+        deserializedBrand.Code.Should().Be(brand.Code);
+        deserializedBrand.CodeUser.Should().Be(brand.CodeUser);
+        deserializedBrand.Name.Should().Be(brand.Name);
+        deserializedBrand.Title.Should().Be(brand.Title);
+        deserializedBrand.Description.Should().Be(brand.Description);
+        deserializedBrand.Keywords.Should().Be(brand.Keywords);
+        deserializedBrand.IsActive.Should().Be(brand.IsActive);
+        deserializedBrand.IsInPlatform.Should().Be(brand.IsInPlatform);
+        deserializedBrand.DateChanged.Should().Be(brand.DateChanged);
     }
 }
