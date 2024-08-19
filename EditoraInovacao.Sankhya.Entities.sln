@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditoraInovacao.Sankhya.Entities", "Src\EditoraInovacao.Sankhya.Entities\EditoraInovacao.Sankhya.Entities.csproj", "{928B45CA-A019-4092-B2FB-A7DBA13BAF9D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B420B6AF-6E8C-4EC5-9183-8D74A86DC153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditoraInovacao.Sankhya.Entities.Tests", "Tests\EditoraInovacao.Sankhya.Entities.Tests\EditoraInovacao.Sankhya.Entities.Tests.csproj", "{048C1DC1-8401-4537-992E-642196DFE46A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +19,18 @@ Global
 		{928B45CA-A019-4092-B2FB-A7DBA13BAF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{928B45CA-A019-4092-B2FB-A7DBA13BAF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{928B45CA-A019-4092-B2FB-A7DBA13BAF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048C1DC1-8401-4537-992E-642196DFE46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048C1DC1-8401-4537-992E-642196DFE46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048C1DC1-8401-4537-992E-642196DFE46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048C1DC1-8401-4537-992E-642196DFE46A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F59F598-1E1F-4C25-B011-31FEED673EAA}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{048C1DC1-8401-4537-992E-642196DFE46A} = {B420B6AF-6E8C-4EC5-9183-8D74A86DC153}
 	EndGlobalSection
 EndGlobal
