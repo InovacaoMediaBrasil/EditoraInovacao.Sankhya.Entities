@@ -21,7 +21,7 @@ public class ModelSerializationTests
             Keywords = "keyword1, keyword2",
             IsActive = true,
             IsInPlatform = false,
-            DateChanged = DateTime.Now,
+            DateChanged = DateTime.UtcNow,
         };
 
         var json = (string)brand.GetCustomSerializer(SerializerFormat.Json);
