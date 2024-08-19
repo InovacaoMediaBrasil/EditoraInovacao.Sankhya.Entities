@@ -258,5 +258,5 @@ public enum TrackingStatus
     /// </summary>
     [InternalValue("AF")]
     [HumanReadable("Remessa cancelada")]
-    ShipmentCancelled
+    ShipmentCancelled,
 }

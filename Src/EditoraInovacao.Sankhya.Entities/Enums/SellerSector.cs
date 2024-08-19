@@ -124,5 +124,5 @@ public enum SellerSector
     /// </summary>
     [HumanReadable("Board of directors")]
     [InternalValue("DIRETORIA")]
-    BoardOfDirectors
+    BoardOfDirectors,
 }
