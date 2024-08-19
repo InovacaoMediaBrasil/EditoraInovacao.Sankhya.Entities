@@ -107,7 +107,7 @@ public static class ProductValidation
         "sem",
         "sob",
         "em",
-        "até"
+        "até",
     };
 
     /// <summary>
@@ -121,6 +121,6 @@ public static class ProductValidation
         "<br />",
         "<br>",
         "<br/>",
-        "${nl}"
+        "${nl}",
     };
 }

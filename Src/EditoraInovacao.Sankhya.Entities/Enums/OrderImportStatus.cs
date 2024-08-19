@@ -54,5 +54,5 @@ public enum OrderImportStatus
     /// </summary>
     [InternalValue("P")]
     [HumanReadable("Em processamento")]
-    Importing
+    Importing,
 }

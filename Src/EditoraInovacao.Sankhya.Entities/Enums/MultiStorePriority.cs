@@ -33,5 +33,5 @@ public enum MultiStorePriority
     /// </summary>
     [InternalValue("2")]
     [HumanReadable("Highest")]
-    Highest = 2
+    Highest = 2,
 }

@@ -1,6 +1,6 @@
+using EditoraInovacao.Sankhya.Entities.Transport;
 using Newtonsoft.Json;
 using Xunit;
-using EditoraInovacao.Sankhya.Entities.Transport;
 
 namespace EditoraInovacao.Sankhya.Entities.Tests;
 
@@ -20,7 +20,9 @@ public class ModelSerializationTests
             IsActive = true,
             IsInPlatform = false,
             DateChanged = DateTime.Now,
-            User = new User { /* initialize properties */ }
+            User = new User
+            { /* initialize properties */
+            },
         };
 
         var json = JsonConvert.SerializeObject(brand);

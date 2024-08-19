@@ -33,5 +33,5 @@ public enum PaymentStatus
     /// </summary>
     [InternalValue("F")]
     [HumanReadable("Faturado")]
-    Billed
+    Billed,
 }
