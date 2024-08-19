@@ -1,15 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;netstandard2.1;net6.0;net7.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net6.0;net8.0</TargetFrameworks>
     <Title>EditoraInvoacao.Sankhya.Entities</Title>
     <Authors>Guilherme Branco Stracini ME</Authors>
     <Company>Guilherme Branco Stracini ME</Company>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CrispyWaffle" Version="7.0.83" />
-    <PackageReference Include="Sankhya" Version="3.0.567" />
+    <PackageReference Include="CrispyWaffle" Version="8.1.79" />
+    <PackageReference Include="Sankhya" Version="3.0.640" />
   </ItemGroup>
 
 </Project>
