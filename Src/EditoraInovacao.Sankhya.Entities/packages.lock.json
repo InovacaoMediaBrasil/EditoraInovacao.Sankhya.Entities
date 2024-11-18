@@ -4,9 +4,9 @@
     ".NETStandard,Version=v2.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[8.2.270, )",
-        "resolved": "8.2.270",
-        "contentHash": "l05+uunmDFpDGeKHDLA/qd3WOv5peGg4Vr3SA3NTMH/rKws301sJS5Z3t73iVKJx7EknXRUzEr96cOWNdIXcyA==",
+        "requested": "[9.0.48, )",
+        "resolved": "9.0.48",
+        "contentHash": "B50X8ydOODrzM4HH7erkQEruc/9RH0Exx2G8AdCHZzUeA8UUbcS+DSbVqu3J+fZmcWGBIvskCYT273+D+QxJzQ==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "[6.0.0, 7.0.0)",
@@ -24,25 +24,25 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.0.938, )",
-        "resolved": "3.0.938",
-        "contentHash": "gRgROju/dJzngx8kACAKXFCm0WjN/dgDn5914vj2BsPnvMfGhTEmAbmz0uCXKqFGo8XVWzpSQDKLW9kSssDuuQ==",
+        "requested": "[3.1.37, )",
+        "resolved": "3.1.37",
+        "contentHash": "kUokZ3/XYa9pxj33i0b1d3RQYvwONg2jTFdFyyp67p8LlIxpoG9KYZ2EZOzghmkg4ZfjByrahEr+yKk8c7mceQ==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270",
-          "CrispyWaffle.Configuration": "8.2.270",
+          "CrispyWaffle": "9.0.48",
+          "CrispyWaffle.Configuration": "9.0.48",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.3",
           "System.Text.RegularExpressions": "4.3.1",
-          "System.Threading.Tasks.Extensions": "4.5.4"
+          "System.Threading.Tasks.Extensions": "4.6.0"
         }
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "8.2.270",
-        "contentHash": "DRGPWrf3X65pL0l2kxDb8U3rtD+lms98L4RW1BxjsdOQXRGCa5b8PNTUFtyqSKlVdsi6tQE3FwuZSKwktwBoGQ==",
+        "resolved": "9.0.48",
+        "contentHash": "LUevHVf/2d25qP7PDBhcOOZ++BfOUrJvmFH8odeIe/FR1h9tJMkSauSunzbCx7uP+hooUOi8vS82DgeXcQQH8g==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270"
+          "CrispyWaffle": "9.0.48"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
@@ -189,8 +189,8 @@
       },
       "System.Runtime.CompilerServices.Unsafe": {
         "type": "Transitive",
-        "resolved": "6.0.0",
-        "contentHash": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg=="
+        "resolved": "6.1.0",
+        "contentHash": "5o/HZxx6RVqYlhKSq8/zronDkALJZUT2Vz0hx43f0gwe8mwlM0y2nYlqdBwLMzr262Bwvpikeb/yEwkAa5PADg=="
       },
       "System.Runtime.Extensions": {
         "type": "Transitive",
@@ -290,19 +290,19 @@
       },
       "System.Threading.Tasks.Extensions": {
         "type": "Transitive",
-        "resolved": "4.5.4",
-        "contentHash": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+        "resolved": "4.6.0",
+        "contentHash": "I5G6Y8jb0xRtGUC9Lahy7FUvlYlnGMMkbuKAQBy8Jb7Y6Yn8OlBEiUOY0PqZ0hy6Ua8poVA1ui1tAIiXNxGdsg==",
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "4.5.3"
+          "System.Runtime.CompilerServices.Unsafe": "6.1.0"
         }
       }
     },
     ".NETStandard,Version=v2.1": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[8.2.270, )",
-        "resolved": "8.2.270",
-        "contentHash": "l05+uunmDFpDGeKHDLA/qd3WOv5peGg4Vr3SA3NTMH/rKws301sJS5Z3t73iVKJx7EknXRUzEr96cOWNdIXcyA==",
+        "requested": "[9.0.48, )",
+        "resolved": "9.0.48",
+        "contentHash": "B50X8ydOODrzM4HH7erkQEruc/9RH0Exx2G8AdCHZzUeA8UUbcS+DSbVqu3J+fZmcWGBIvskCYT273+D+QxJzQ==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "[6.0.0, 7.0.0)",
@@ -311,25 +311,25 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.0.938, )",
-        "resolved": "3.0.938",
-        "contentHash": "gRgROju/dJzngx8kACAKXFCm0WjN/dgDn5914vj2BsPnvMfGhTEmAbmz0uCXKqFGo8XVWzpSQDKLW9kSssDuuQ==",
+        "requested": "[3.1.37, )",
+        "resolved": "3.1.37",
+        "contentHash": "kUokZ3/XYa9pxj33i0b1d3RQYvwONg2jTFdFyyp67p8LlIxpoG9KYZ2EZOzghmkg4ZfjByrahEr+yKk8c7mceQ==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270",
-          "CrispyWaffle.Configuration": "8.2.270",
+          "CrispyWaffle": "9.0.48",
+          "CrispyWaffle.Configuration": "9.0.48",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.3",
           "System.Text.RegularExpressions": "4.3.1",
-          "System.Threading.Tasks.Extensions": "4.5.4"
+          "System.Threading.Tasks.Extensions": "4.6.0"
         }
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "8.2.270",
-        "contentHash": "DRGPWrf3X65pL0l2kxDb8U3rtD+lms98L4RW1BxjsdOQXRGCa5b8PNTUFtyqSKlVdsi6tQE3FwuZSKwktwBoGQ==",
+        "resolved": "9.0.48",
+        "contentHash": "LUevHVf/2d25qP7PDBhcOOZ++BfOUrJvmFH8odeIe/FR1h9tJMkSauSunzbCx7uP+hooUOi8vS82DgeXcQQH8g==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270"
+          "CrispyWaffle": "9.0.48"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
@@ -473,8 +473,8 @@
       },
       "System.Runtime.CompilerServices.Unsafe": {
         "type": "Transitive",
-        "resolved": "6.0.0",
-        "contentHash": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg=="
+        "resolved": "6.1.0",
+        "contentHash": "5o/HZxx6RVqYlhKSq8/zronDkALJZUT2Vz0hx43f0gwe8mwlM0y2nYlqdBwLMzr262Bwvpikeb/yEwkAa5PADg=="
       },
       "System.Runtime.Extensions": {
         "type": "Transitive",
@@ -574,19 +574,19 @@
       },
       "System.Threading.Tasks.Extensions": {
         "type": "Transitive",
-        "resolved": "4.5.4",
-        "contentHash": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+        "resolved": "4.6.0",
+        "contentHash": "I5G6Y8jb0xRtGUC9Lahy7FUvlYlnGMMkbuKAQBy8Jb7Y6Yn8OlBEiUOY0PqZ0hy6Ua8poVA1ui1tAIiXNxGdsg==",
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "4.5.3"
+          "System.Runtime.CompilerServices.Unsafe": "6.1.0"
         }
       }
     },
     "net6.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[8.2.270, )",
-        "resolved": "8.2.270",
-        "contentHash": "l05+uunmDFpDGeKHDLA/qd3WOv5peGg4Vr3SA3NTMH/rKws301sJS5Z3t73iVKJx7EknXRUzEr96cOWNdIXcyA==",
+        "requested": "[9.0.48, )",
+        "resolved": "9.0.48",
+        "contentHash": "B50X8ydOODrzM4HH7erkQEruc/9RH0Exx2G8AdCHZzUeA8UUbcS+DSbVqu3J+fZmcWGBIvskCYT273+D+QxJzQ==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "[6.0.0, 7.0.0)",
@@ -595,25 +595,25 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.0.938, )",
-        "resolved": "3.0.938",
-        "contentHash": "gRgROju/dJzngx8kACAKXFCm0WjN/dgDn5914vj2BsPnvMfGhTEmAbmz0uCXKqFGo8XVWzpSQDKLW9kSssDuuQ==",
+        "requested": "[3.1.37, )",
+        "resolved": "3.1.37",
+        "contentHash": "kUokZ3/XYa9pxj33i0b1d3RQYvwONg2jTFdFyyp67p8LlIxpoG9KYZ2EZOzghmkg4ZfjByrahEr+yKk8c7mceQ==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270",
-          "CrispyWaffle.Configuration": "8.2.270",
+          "CrispyWaffle": "9.0.48",
+          "CrispyWaffle.Configuration": "9.0.48",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.3",
           "System.Text.RegularExpressions": "4.3.1",
-          "System.Threading.Tasks.Extensions": "4.5.4"
+          "System.Threading.Tasks.Extensions": "4.6.0"
         }
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "8.2.270",
-        "contentHash": "DRGPWrf3X65pL0l2kxDb8U3rtD+lms98L4RW1BxjsdOQXRGCa5b8PNTUFtyqSKlVdsi6tQE3FwuZSKwktwBoGQ==",
+        "resolved": "9.0.48",
+        "contentHash": "LUevHVf/2d25qP7PDBhcOOZ++BfOUrJvmFH8odeIe/FR1h9tJMkSauSunzbCx7uP+hooUOi8vS82DgeXcQQH8g==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270"
+          "CrispyWaffle": "9.0.48"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
@@ -728,8 +728,8 @@
       },
       "System.Threading.Tasks.Extensions": {
         "type": "Transitive",
-        "resolved": "4.5.4",
-        "contentHash": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg=="
+        "resolved": "4.6.0",
+        "contentHash": "I5G6Y8jb0xRtGUC9Lahy7FUvlYlnGMMkbuKAQBy8Jb7Y6Yn8OlBEiUOY0PqZ0hy6Ua8poVA1ui1tAIiXNxGdsg=="
       },
       "System.Windows.Extensions": {
         "type": "Transitive",
@@ -743,9 +743,9 @@
     "net8.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[8.2.270, )",
-        "resolved": "8.2.270",
-        "contentHash": "l05+uunmDFpDGeKHDLA/qd3WOv5peGg4Vr3SA3NTMH/rKws301sJS5Z3t73iVKJx7EknXRUzEr96cOWNdIXcyA==",
+        "requested": "[9.0.48, )",
+        "resolved": "9.0.48",
+        "contentHash": "B50X8ydOODrzM4HH7erkQEruc/9RH0Exx2G8AdCHZzUeA8UUbcS+DSbVqu3J+fZmcWGBIvskCYT273+D+QxJzQ==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "[6.0.0, 7.0.0)",
@@ -754,25 +754,25 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.0.938, )",
-        "resolved": "3.0.938",
-        "contentHash": "gRgROju/dJzngx8kACAKXFCm0WjN/dgDn5914vj2BsPnvMfGhTEmAbmz0uCXKqFGo8XVWzpSQDKLW9kSssDuuQ==",
+        "requested": "[3.1.37, )",
+        "resolved": "3.1.37",
+        "contentHash": "kUokZ3/XYa9pxj33i0b1d3RQYvwONg2jTFdFyyp67p8LlIxpoG9KYZ2EZOzghmkg4ZfjByrahEr+yKk8c7mceQ==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270",
-          "CrispyWaffle.Configuration": "8.2.270",
+          "CrispyWaffle": "9.0.48",
+          "CrispyWaffle.Configuration": "9.0.48",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.3",
           "System.Text.RegularExpressions": "4.3.1",
-          "System.Threading.Tasks.Extensions": "4.5.4"
+          "System.Threading.Tasks.Extensions": "4.6.0"
         }
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "8.2.270",
-        "contentHash": "DRGPWrf3X65pL0l2kxDb8U3rtD+lms98L4RW1BxjsdOQXRGCa5b8PNTUFtyqSKlVdsi6tQE3FwuZSKwktwBoGQ==",
+        "resolved": "9.0.48",
+        "contentHash": "LUevHVf/2d25qP7PDBhcOOZ++BfOUrJvmFH8odeIe/FR1h9tJMkSauSunzbCx7uP+hooUOi8vS82DgeXcQQH8g==",
         "dependencies": {
-          "CrispyWaffle": "8.2.270"
+          "CrispyWaffle": "9.0.48"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
@@ -870,8 +870,8 @@
       },
       "System.Threading.Tasks.Extensions": {
         "type": "Transitive",
-        "resolved": "4.5.4",
-        "contentHash": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg=="
+        "resolved": "4.6.0",
+        "contentHash": "I5G6Y8jb0xRtGUC9Lahy7FUvlYlnGMMkbuKAQBy8Jb7Y6Yn8OlBEiUOY0PqZ0hy6Ua8poVA1ui1tAIiXNxGdsg=="
       },
       "System.Windows.Extensions": {
         "type": "Transitive",
