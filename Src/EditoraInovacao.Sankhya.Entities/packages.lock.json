@@ -24,9 +24,9 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.1.108, )",
-        "resolved": "3.1.108",
-        "contentHash": "yzYUw6sityVJa6tyBWykg7uSChWlNtbeKCgXDE7YUWla3fH5ptl2IzDYHWtgaaQpU01xtwOpsVKQdVdtKR0Xyw==",
+        "requested": "[3.1.126, )",
+        "resolved": "3.1.126",
+        "contentHash": "MtQimwUp2jVOXyPq/hDtJ0BMwYM6hT2d7oazNaKFYtwT3BbVdQee8FvJZu610TIV44YHbnEjxhX2V5BF6HkJnw==",
         "dependencies": {
           "CrispyWaffle": "9.1.101",
           "CrispyWaffle.Configuration": "9.1.101",
@@ -322,9 +322,9 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.1.108, )",
-        "resolved": "3.1.108",
-        "contentHash": "yzYUw6sityVJa6tyBWykg7uSChWlNtbeKCgXDE7YUWla3fH5ptl2IzDYHWtgaaQpU01xtwOpsVKQdVdtKR0Xyw==",
+        "requested": "[3.1.126, )",
+        "resolved": "3.1.126",
+        "contentHash": "MtQimwUp2jVOXyPq/hDtJ0BMwYM6hT2d7oazNaKFYtwT3BbVdQee8FvJZu610TIV44YHbnEjxhX2V5BF6HkJnw==",
         "dependencies": {
           "CrispyWaffle": "9.1.101",
           "CrispyWaffle.Configuration": "9.1.101",
@@ -617,9 +617,9 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.1.108, )",
-        "resolved": "3.1.108",
-        "contentHash": "yzYUw6sityVJa6tyBWykg7uSChWlNtbeKCgXDE7YUWla3fH5ptl2IzDYHWtgaaQpU01xtwOpsVKQdVdtKR0Xyw==",
+        "requested": "[3.1.126, )",
+        "resolved": "3.1.126",
+        "contentHash": "MtQimwUp2jVOXyPq/hDtJ0BMwYM6hT2d7oazNaKFYtwT3BbVdQee8FvJZu610TIV44YHbnEjxhX2V5BF6HkJnw==",
         "dependencies": {
           "CrispyWaffle": "9.1.101",
           "CrispyWaffle.Configuration": "9.1.101",
@@ -803,9 +803,9 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[3.1.108, )",
-        "resolved": "3.1.108",
-        "contentHash": "yzYUw6sityVJa6tyBWykg7uSChWlNtbeKCgXDE7YUWla3fH5ptl2IzDYHWtgaaQpU01xtwOpsVKQdVdtKR0Xyw==",
+        "requested": "[3.1.126, )",
+        "resolved": "3.1.126",
+        "contentHash": "MtQimwUp2jVOXyPq/hDtJ0BMwYM6hT2d7oazNaKFYtwT3BbVdQee8FvJZu610TIV44YHbnEjxhX2V5BF6HkJnw==",
         "dependencies": {
           "CrispyWaffle": "9.1.101",
           "CrispyWaffle.Configuration": "9.1.101",
