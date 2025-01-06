@@ -4,9 +4,9 @@
     "net8.0": {
       "coverlet.msbuild": {
         "type": "Direct",
-        "requested": "[6.0.2, )",
-        "resolved": "6.0.2",
-        "contentHash": "8b4jBNH7mcQy1otyQErjjIUuGD74XxKZ1wvDufbY7jhWwckl7wIa+icjwdPYeI0aYMS4Tp63LIZvyMFjWwOMDw=="
+        "requested": "[6.0.3, )",
+        "resolved": "6.0.3",
+        "contentHash": "QptuqnNCaVlSJcO4lfAPv+9X1Ke+TW216HYD5gSkSb1mbK4K+di1MtsWa3zGCAjnTHDN2TvWVs/Wuw6+mQDhhA=="
       },
       "FluentAssertions": {
         "type": "Direct",
@@ -46,8 +46,8 @@
       },
       "CrispyWaffle": {
         "type": "Transitive",
-        "resolved": "9.1.101",
-        "contentHash": "b454lAINaQk8ie0I+shW30WqngAd5Y0NiIKzLANSoHqX97ZUlqHFplvSGiGhYP/spk7rqy1XDsmR4EpoXMo9Pw==",
+        "resolved": "9.1.131",
+        "contentHash": "O7coiOGNb9KO8fFSVtt93mZPdkPBRK4uaaexBT1uqe7zVqDYxO8VRJ5fQZHEr8kDM2wWRrYmufbhsyIlCrgMzw==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "[6.0.0, 7.0.0)",
@@ -56,10 +56,10 @@
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "9.1.101",
-        "contentHash": "iTYYq3LaQT5ZNcHgXpSZ8AIORj4TTfjJaoOZKYQ0m/tOjFr/GMQD684hyq6T+6n042KByXeeXmmQyhuJ1A2Qfg==",
+        "resolved": "9.1.131",
+        "contentHash": "nmA0hhNWeaAlcLb6VWAR4KPfSpkKTZG4aiKy3pDFIzTuuS4q6CvG+992BqQ4wgKgbw0NnMfjTMa+k4NCAi/Zyw==",
         "dependencies": {
-          "CrispyWaffle": "9.1.101"
+          "CrispyWaffle": "9.1.131"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
@@ -130,11 +130,11 @@
       },
       "Sankhya": {
         "type": "Transitive",
-        "resolved": "3.1.108",
-        "contentHash": "yzYUw6sityVJa6tyBWykg7uSChWlNtbeKCgXDE7YUWla3fH5ptl2IzDYHWtgaaQpU01xtwOpsVKQdVdtKR0Xyw==",
+        "resolved": "4.1.65",
+        "contentHash": "lfnx75aMx3Pp4EGLJzJkKlFPn088ig/q/J0m3mh1nly+jpeP511bYKmIGhAx+EeBEYmAy77lBHCb261GR+oGhw==",
         "dependencies": {
-          "CrispyWaffle": "9.1.101",
-          "CrispyWaffle.Configuration": "9.1.101",
+          "CrispyWaffle": "9.1.131",
+          "CrispyWaffle.Configuration": "9.1.131",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.3",
@@ -280,8 +280,8 @@
       "editorainovacao.sankhya.entities": {
         "type": "Project",
         "dependencies": {
-          "CrispyWaffle": "[9.1.101, )",
-          "Sankhya": "[3.1.108, )"
+          "CrispyWaffle": "[9.1.131, )",
+          "Sankhya": "[4.1.65, )"
         }
       }
     }
