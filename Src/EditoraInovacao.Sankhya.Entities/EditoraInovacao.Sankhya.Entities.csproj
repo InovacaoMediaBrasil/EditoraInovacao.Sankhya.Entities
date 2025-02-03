@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CrispyWaffle" Version="9.1.268" />
+    <PackageReference Include="CrispyWaffle" Version="9.1.280" />
     <PackageReference Include="Sankhya" Version="5.0.74" />
   </ItemGroup>
 
