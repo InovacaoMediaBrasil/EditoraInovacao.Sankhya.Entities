@@ -37,26 +37,26 @@
       },
       "xunit.runner.visualstudio": {
         "type": "Direct",
-        "requested": "[3.0.1, )",
-        "resolved": "3.0.1",
-        "contentHash": "lbyYtsBxA8Pz8kaf5Xn/Mj1mL9z2nlBWdZhqFaj66nxXBa4JwiTDm4eGcpSMet6du9TOWI6bfha+gQR6+IHawg=="
+        "requested": "[3.0.2, )",
+        "resolved": "3.0.2",
+        "contentHash": "oXbusR6iPq0xlqoikjdLvzh+wQDkMv9If58myz9MEzldS4nIcp442Btgs2sWbYWV+caEluMe2pQCZ0hUZgPiow=="
       },
       "CrispyWaffle": {
         "type": "Transitive",
-        "resolved": "9.1.225",
-        "contentHash": "6MGsJccOaZm1+/xQGkypGmqpbWbLjk6dKDa3gYjhAGkzDHPHtN/zxaYwTk99PPcduaMtfk0Kl1gPbUg8NYpy3w==",
+        "resolved": "9.1.280",
+        "contentHash": "WcFljFqjqRHTl2U85lnFvwEWt0rwCFrqgHbb+r0HJoxu4YsunKaVNeVOmcoD7S8jDopLDr2vdHVX7fmo9GFSuA==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "[6.0.0, 7.0.0)",
-          "System.Text.Json": "9.0.0"
+          "System.Text.Json": "9.0.1"
         }
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "9.1.225",
-        "contentHash": "kBcptTaEMKLpN3CXJ3p0gPMdZPYT+97JkWp++PE+9XuHu6pAGRukEmLyYJq7PfF3gHOtF5vSEKMAeUe3qrTMhw==",
+        "resolved": "9.1.280",
+        "contentHash": "yEl1XfyIthvatrVQjR2JwvrMiHRFRlpJCJhz6o3847FhY70g3rxH9icC7d6cPpl4Btkak5p6aooe0aKDIEikng==",
         "dependencies": {
-          "CrispyWaffle": "9.1.225"
+          "CrispyWaffle": "9.1.280"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
@@ -127,11 +127,11 @@
       },
       "Sankhya": {
         "type": "Transitive",
-        "resolved": "5.0.58",
-        "contentHash": "d+kvXePqpu1JKcBROuTlZkfDF953HGoW2B6CjCN38mTTA5P+4N/KnL8ftuqzZiXQiYcZW+uqOUA4xw6PEzVmAg==",
+        "resolved": "5.0.85",
+        "contentHash": "FmwTiJvWZPBPHZF3ZKVfI7QHVvVrYAIAEVpxPbNEq3f8nl53n964QcsLmam3TUKerawW+lkxN6RFwZ3BTRDElw==",
         "dependencies": {
-          "CrispyWaffle": "9.1.225",
-          "CrispyWaffle.Configuration": "9.1.225",
+          "CrispyWaffle": "9.1.280",
+          "CrispyWaffle.Configuration": "9.1.280",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.3",
@@ -149,8 +149,8 @@
       },
       "System.IO.Pipelines": {
         "type": "Transitive",
-        "resolved": "9.0.0",
-        "contentHash": "eA3cinogwaNB4jdjQHOP3Z3EuyiDII7MT35jgtnsA4vkn0LUrrSHsU0nzHTzFzmaFYeKV7MYyMxOocFzsBHpTw=="
+        "resolved": "9.0.1",
+        "contentHash": "uXf5o8eV/gtzDQY4lGROLFMWQvcViKcF8o4Q6KpIOjloAQXrnscQSu6gTxYJMHuNJnh7szIF9AzkaEq+zDLoEg=="
       },
       "System.Memory": {
         "type": "Transitive",
@@ -187,16 +187,16 @@
       },
       "System.Text.Encodings.Web": {
         "type": "Transitive",
-        "resolved": "9.0.0",
-        "contentHash": "e2hMgAErLbKyUUwt18qSBf9T5Y+SFAL3ZedM8fLupkVj8Rj2PZ9oxQ37XX2LF8fTO1wNIxvKpihD7Of7D/NxZw=="
+        "resolved": "9.0.1",
+        "contentHash": "XkspqduP2t1e1x2vBUAD/xZ5ZDvmywuUwsmB93MvyQLospJfqtX0GsR/kU0vUL2h4kmvf777z3txV2W4NrQ9Qg=="
       },
       "System.Text.Json": {
         "type": "Transitive",
-        "resolved": "9.0.0",
-        "contentHash": "js7+qAu/9mQvnhA4EfGMZNEzXtJCDxgkgj8ohuxq/Qxv+R56G+ljefhiJHOxTNiw54q8vmABCWUwkMulNdlZ4A==",
+        "resolved": "9.0.1",
+        "contentHash": "eqWHDZqYPv1PvuvoIIx5pF74plL3iEOZOl/0kQP+Y0TEbtgNnM2W6k8h8EPYs+LTJZsXuWa92n5W5sHTWvE3VA==",
         "dependencies": {
-          "System.IO.Pipelines": "9.0.0",
-          "System.Text.Encodings.Web": "9.0.0"
+          "System.IO.Pipelines": "9.0.1",
+          "System.Text.Encodings.Web": "9.0.1"
         }
       },
       "System.Text.RegularExpressions": {
@@ -263,8 +263,8 @@
       "editorainovacao.sankhya.entities": {
         "type": "Project",
         "dependencies": {
-          "CrispyWaffle": "[9.1.225, )",
-          "Sankhya": "[5.0.58, )"
+          "CrispyWaffle": "[9.1.280, )",
+          "Sankhya": "[5.0.85, )"
         }
       }
     }
