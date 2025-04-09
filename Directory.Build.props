@@ -15,7 +15,14 @@
     <PackageIcon>logo.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+    <!-- GitVersion Integration -->
+    <UseGitVersion>true</UseGitVersion>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="GitVersion.MsBuild" Version="5.12.0" PrivateAssets="all" IncludeAssets="runtime;build;native;contentfiles;analyzers" />
+  </ItemGroup>
   
   <ItemGroup>
     
