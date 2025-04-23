@@ -6,7 +6,7 @@ The Nuget package with custom Sankhya entities
 [![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
 [![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/main)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities)
 [![Linter check](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/linter.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/linter.yml)
-[![Build](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/build.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/build.yml)
+[![Build & Deploy](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/deploy.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/EditoraInovacao.Sankhya.Entities/actions/workflows/deploy.yml)
 
 ![logo.png](logo.png)
 
