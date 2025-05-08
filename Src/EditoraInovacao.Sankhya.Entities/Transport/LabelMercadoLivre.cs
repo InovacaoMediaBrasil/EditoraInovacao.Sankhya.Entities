@@ -28,7 +28,7 @@ namespace EditoraInovacao.Sankhya.Entities.Transport;
 /// <seealso cref="IEntity" />
 /// <seealso cref="System.IEquatable{LabelMercadoLivre}" />
 [Entity("ETIQUETASMLB")]
-public class LabelMercadoLivre : IEntity, IEquatable<LabelMercadoLivre>
+public sealed class LabelMercadoLivre : IEntity, IEquatable<LabelMercadoLivre>
 {
     #region Equality members
 
@@ -356,7 +356,6 @@ public class LabelMercadoLivre : IEntity, IEquatable<LabelMercadoLivre>
     /// Gets or sets the date
     /// </summary>
     /// <value>The date</value>
-
     [EntityElement("DATA")]
     public DateTime Date
     {
