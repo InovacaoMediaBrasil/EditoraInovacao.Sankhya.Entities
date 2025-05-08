@@ -356,7 +356,6 @@ public class LabelMercadoLivre : IEntity, IEquatable<LabelMercadoLivre>
     /// Gets or sets the date
     /// </summary>
     /// <value>The date</value>
-
     [EntityElement("DATA")]
     public DateTime Date
     {
