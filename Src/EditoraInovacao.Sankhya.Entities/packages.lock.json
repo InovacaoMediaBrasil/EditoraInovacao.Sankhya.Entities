@@ -4,9 +4,9 @@
     ".NETStandard,Version=v2.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.707, )",
-        "resolved": "10.0.707",
-        "contentHash": "FXjtHKImOklcAKy629vHYMOr268rBjGQhoMEDJNbNa7PFBimDWQJ/P+3WIyzh1+S4Fbgxw9S5y6+gIAuwnIZ+A==",
+        "requested": "[10.0.716, )",
+        "resolved": "10.0.716",
+        "contentHash": "53UfrbQIVxvmxkPiLJ57FNvCqXmoooGa28IAIFMEqd5S94fDU2kN5LMdykAuDJ0boRPVxP5ipB9G158Eaqa/Eg==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "9.0.9",
@@ -311,9 +311,9 @@
     ".NETStandard,Version=v2.1": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.707, )",
-        "resolved": "10.0.707",
-        "contentHash": "FXjtHKImOklcAKy629vHYMOr268rBjGQhoMEDJNbNa7PFBimDWQJ/P+3WIyzh1+S4Fbgxw9S5y6+gIAuwnIZ+A==",
+        "requested": "[10.0.716, )",
+        "resolved": "10.0.716",
+        "contentHash": "53UfrbQIVxvmxkPiLJ57FNvCqXmoooGa28IAIFMEqd5S94fDU2kN5LMdykAuDJ0boRPVxP5ipB9G158Eaqa/Eg==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "9.0.9",
@@ -606,9 +606,9 @@
     "net6.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.707, )",
-        "resolved": "10.0.707",
-        "contentHash": "FXjtHKImOklcAKy629vHYMOr268rBjGQhoMEDJNbNa7PFBimDWQJ/P+3WIyzh1+S4Fbgxw9S5y6+gIAuwnIZ+A==",
+        "requested": "[10.0.716, )",
+        "resolved": "10.0.716",
+        "contentHash": "53UfrbQIVxvmxkPiLJ57FNvCqXmoooGa28IAIFMEqd5S94fDU2kN5LMdykAuDJ0boRPVxP5ipB9G158Eaqa/Eg==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "9.0.9",
@@ -770,9 +770,9 @@
     "net8.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.707, )",
-        "resolved": "10.0.707",
-        "contentHash": "FXjtHKImOklcAKy629vHYMOr268rBjGQhoMEDJNbNa7PFBimDWQJ/P+3WIyzh1+S4Fbgxw9S5y6+gIAuwnIZ+A==",
+        "requested": "[10.0.716, )",
+        "resolved": "10.0.716",
+        "contentHash": "53UfrbQIVxvmxkPiLJ57FNvCqXmoooGa28IAIFMEqd5S94fDU2kN5LMdykAuDJ0boRPVxP5ipB9G158Eaqa/Eg==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Security.Permissions": "9.0.9",
