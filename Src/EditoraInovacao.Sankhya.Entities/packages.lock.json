@@ -4,12 +4,12 @@
     ".NETStandard,Version=v2.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.788, )",
-        "resolved": "10.0.788",
-        "contentHash": "D8cdNhB7o9RaCRuZKt7QjaGXEbPsZiQsQF+Hfl2z72At6/88nYFjk5wfz8G+Vkh0mINczggRRfRHtJ9hkSaw2w==",
+        "requested": "[10.0.837, )",
+        "resolved": "10.0.837",
+        "contentHash": "JKdNNa8KPe8F4FvjIkw8GCQyUxjBHGJqW7MxSdahb3MwDz0kzWc4nENXk96rAD3jdzWpQiSgtRdU9hY5xHTSDg==",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Security.Permissions": "9.0.9",
+          "Newtonsoft.Json": "13.0.4",
+          "System.Security.Permissions": "9.0.10",
           "System.Text.Json": "9.0.9"
         }
       },
@@ -81,8 +81,8 @@
       },
       "Newtonsoft.Json": {
         "type": "Transitive",
-        "resolved": "13.0.3",
-        "contentHash": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ=="
+        "resolved": "13.0.4",
+        "contentHash": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A=="
       },
       "Newtonsoft.Json.Bson": {
         "type": "Transitive",
@@ -222,8 +222,8 @@
       },
       "System.Security.Permissions": {
         "type": "Transitive",
-        "resolved": "9.0.9",
-        "contentHash": "lcR3y9wHLYK8fPMv8VsSj1/FCn2TdnN9lwQFrW+HQ8u4xJ9QMsys/xSE3+z9GCy7C11/HTsXuj4pFgLH7kQLaA==",
+        "resolved": "9.0.10",
+        "contentHash": "uqzXSkn2nx9nplIdayurMtbLcQQdOGd7TmIQ+X5P65+QWT2S+1aUZfJuH2f+Blr/4W6wxMkiX9aKzLk7lfMZFQ==",
         "dependencies": {
           "System.Security.AccessControl": "6.0.0"
         }
@@ -311,12 +311,12 @@
     ".NETStandard,Version=v2.1": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.788, )",
-        "resolved": "10.0.788",
-        "contentHash": "D8cdNhB7o9RaCRuZKt7QjaGXEbPsZiQsQF+Hfl2z72At6/88nYFjk5wfz8G+Vkh0mINczggRRfRHtJ9hkSaw2w==",
+        "requested": "[10.0.837, )",
+        "resolved": "10.0.837",
+        "contentHash": "JKdNNa8KPe8F4FvjIkw8GCQyUxjBHGJqW7MxSdahb3MwDz0kzWc4nENXk96rAD3jdzWpQiSgtRdU9hY5xHTSDg==",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Security.Permissions": "9.0.9",
+          "Newtonsoft.Json": "13.0.4",
+          "System.Security.Permissions": "9.0.10",
           "System.Text.Json": "9.0.9"
         }
       },
@@ -376,8 +376,8 @@
       },
       "Newtonsoft.Json": {
         "type": "Transitive",
-        "resolved": "13.0.3",
-        "contentHash": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ=="
+        "resolved": "13.0.4",
+        "contentHash": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A=="
       },
       "Newtonsoft.Json.Bson": {
         "type": "Transitive",
@@ -517,8 +517,8 @@
       },
       "System.Security.Permissions": {
         "type": "Transitive",
-        "resolved": "9.0.9",
-        "contentHash": "lcR3y9wHLYK8fPMv8VsSj1/FCn2TdnN9lwQFrW+HQ8u4xJ9QMsys/xSE3+z9GCy7C11/HTsXuj4pFgLH7kQLaA==",
+        "resolved": "9.0.10",
+        "contentHash": "uqzXSkn2nx9nplIdayurMtbLcQQdOGd7TmIQ+X5P65+QWT2S+1aUZfJuH2f+Blr/4W6wxMkiX9aKzLk7lfMZFQ==",
         "dependencies": {
           "System.Security.AccessControl": "6.0.0"
         }
@@ -603,12 +603,12 @@
     "net6.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.788, )",
-        "resolved": "10.0.788",
-        "contentHash": "D8cdNhB7o9RaCRuZKt7QjaGXEbPsZiQsQF+Hfl2z72At6/88nYFjk5wfz8G+Vkh0mINczggRRfRHtJ9hkSaw2w==",
+        "requested": "[10.0.837, )",
+        "resolved": "10.0.837",
+        "contentHash": "JKdNNa8KPe8F4FvjIkw8GCQyUxjBHGJqW7MxSdahb3MwDz0kzWc4nENXk96rAD3jdzWpQiSgtRdU9hY5xHTSDg==",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Security.Permissions": "9.0.9",
+          "Newtonsoft.Json": "13.0.4",
+          "System.Security.Permissions": "9.0.10",
           "System.Text.Json": "9.0.9"
         }
       },
@@ -668,8 +668,8 @@
       },
       "Newtonsoft.Json": {
         "type": "Transitive",
-        "resolved": "13.0.3",
-        "contentHash": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ=="
+        "resolved": "13.0.4",
+        "contentHash": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A=="
       },
       "Newtonsoft.Json.Bson": {
         "type": "Transitive",
@@ -720,8 +720,8 @@
       },
       "System.Security.Permissions": {
         "type": "Transitive",
-        "resolved": "9.0.9",
-        "contentHash": "lcR3y9wHLYK8fPMv8VsSj1/FCn2TdnN9lwQFrW+HQ8u4xJ9QMsys/xSE3+z9GCy7C11/HTsXuj4pFgLH7kQLaA==",
+        "resolved": "9.0.10",
+        "contentHash": "uqzXSkn2nx9nplIdayurMtbLcQQdOGd7TmIQ+X5P65+QWT2S+1aUZfJuH2f+Blr/4W6wxMkiX9aKzLk7lfMZFQ==",
         "dependencies": {
           "System.Security.AccessControl": "6.0.0"
         }
@@ -767,12 +767,12 @@
     "net8.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.0.788, )",
-        "resolved": "10.0.788",
-        "contentHash": "D8cdNhB7o9RaCRuZKt7QjaGXEbPsZiQsQF+Hfl2z72At6/88nYFjk5wfz8G+Vkh0mINczggRRfRHtJ9hkSaw2w==",
+        "requested": "[10.0.837, )",
+        "resolved": "10.0.837",
+        "contentHash": "JKdNNa8KPe8F4FvjIkw8GCQyUxjBHGJqW7MxSdahb3MwDz0kzWc4nENXk96rAD3jdzWpQiSgtRdU9hY5xHTSDg==",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Security.Permissions": "9.0.9",
+          "Newtonsoft.Json": "13.0.4",
+          "System.Security.Permissions": "9.0.10",
           "System.Text.Json": "9.0.9"
         }
       },
@@ -827,8 +827,8 @@
       },
       "Newtonsoft.Json": {
         "type": "Transitive",
-        "resolved": "13.0.3",
-        "contentHash": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ=="
+        "resolved": "13.0.4",
+        "contentHash": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A=="
       },
       "Newtonsoft.Json.Bson": {
         "type": "Transitive",
@@ -859,10 +859,10 @@
       },
       "System.Security.Permissions": {
         "type": "Transitive",
-        "resolved": "9.0.9",
-        "contentHash": "lcR3y9wHLYK8fPMv8VsSj1/FCn2TdnN9lwQFrW+HQ8u4xJ9QMsys/xSE3+z9GCy7C11/HTsXuj4pFgLH7kQLaA==",
+        "resolved": "9.0.10",
+        "contentHash": "uqzXSkn2nx9nplIdayurMtbLcQQdOGd7TmIQ+X5P65+QWT2S+1aUZfJuH2f+Blr/4W6wxMkiX9aKzLk7lfMZFQ==",
         "dependencies": {
-          "System.Windows.Extensions": "9.0.9"
+          "System.Windows.Extensions": "9.0.10"
         }
       },
       "System.Text.Encodings.Web": {
@@ -894,8 +894,8 @@
       },
       "System.Windows.Extensions": {
         "type": "Transitive",
-        "resolved": "9.0.9",
-        "contentHash": "9MXFp+CvnpqGSRx6FGlKHX5ztHmBi5BoZBnn1/p+NJ1qTLhkTnuszJ3jTOiydSE1y2XIKRLqmZEjiyCGBDrWkw=="
+        "resolved": "9.0.10",
+        "contentHash": "6I+OzjcTx2gtZotjDQXEhWdkfPVxRvT9r9nFWsgt9Of6GwLt9szpIlxx0z2dP3dprg6K3zRU/5bbig+zoVKpfg=="
       }
     }
   }
