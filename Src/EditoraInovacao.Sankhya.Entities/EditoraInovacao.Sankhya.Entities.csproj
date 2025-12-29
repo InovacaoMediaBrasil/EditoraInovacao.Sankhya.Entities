@@ -6,7 +6,7 @@
     <Company>Guilherme Branco Stracini ME</Company>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="CrispyWaffle" Version="10.0.1085" />
-    <PackageReference Include="Sankhya" Version="5.0.618" />
+    <PackageReference Include="CrispyWaffle" Version="10.0.1093" />
+    <PackageReference Include="Sankhya" Version="5.0.629" />
   </ItemGroup>
 </Project>
