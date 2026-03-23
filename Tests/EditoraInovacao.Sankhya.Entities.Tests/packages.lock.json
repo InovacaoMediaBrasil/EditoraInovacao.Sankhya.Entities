@@ -4,9 +4,9 @@
     "net8.0": {
       "coverlet.msbuild": {
         "type": "Direct",
-        "requested": "[8.0.0, )",
-        "resolved": "8.0.0",
-        "contentHash": "2Kd7SC2da4J8eSAUUHevT2VII53teLGIbbGXmdbdmCL/8g89BFCDAe+Qm3mF2h7nkuFxjK1SXYQxLvHd4gMm2Q=="
+        "requested": "[8.0.1, )",
+        "resolved": "8.0.1",
+        "contentHash": "YkP5ZQBSwDno2uUdND/x0tmyLOacCxvKwSN2iEvndpw7OzBaH7STi2xeA06KKkyYHN0m76qDK8Pdz1CVdAPoeg=="
       },
       "FluentAssertions": {
         "type": "Direct",
@@ -43,8 +43,8 @@
       },
       "CrispyWaffle": {
         "type": "Transitive",
-        "resolved": "10.0.1169",
-        "contentHash": "0oqPUPN6KkYlZMQk2/OzIPNA8LaPl7qn9/eCaRc54a9Oz2aJvBEGYesdLdDZlbx991svyALabPLnHo8487RYhQ==",
+        "resolved": "10.0.1236",
+        "contentHash": "haD+MMeWhg+0DW8OFA+GooRP3iZNfWLQivfR6eVRz0JPTR1126vkxLnOyKYC4vL8p2DWj/rko+CfJXrb+Kt3mA==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.2",
@@ -122,8 +122,8 @@
       },
       "Sankhya": {
         "type": "Transitive",
-        "resolved": "5.0.700",
-        "contentHash": "5Q5GGYM/dSdLO6qYOSgAfoi5iMDFmwHHgG3dSpkjQHuHU0fqYJp/H07Y+GWfWdUQB+XC4xRhSCwLDer7IvtcqA==",
+        "resolved": "5.0.708",
+        "contentHash": "c7YVgRkK2qF6qFnaNEdj/57GEyevodjFdPTHHRsF0H7ECSIMNFWy4t9xFf5eBb/YLpQBpSPcm4MDL3/XEp1fQA==",
         "dependencies": {
           "CrispyWaffle": "10.0.1169",
           "CrispyWaffle.Configuration": "10.0.1169",
@@ -249,8 +249,8 @@
       "editorainovacao.sankhya.entities": {
         "type": "Project",
         "dependencies": {
-          "CrispyWaffle": "[10.0.1169, )",
-          "Sankhya": "[5.0.700, )"
+          "CrispyWaffle": "[10.0.1236, )",
+          "Sankhya": "[5.0.708, )"
         }
       }
     }
