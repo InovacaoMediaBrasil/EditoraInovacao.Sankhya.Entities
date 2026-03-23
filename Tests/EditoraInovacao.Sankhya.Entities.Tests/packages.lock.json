@@ -10,9 +10,9 @@
       },
       "FluentAssertions": {
         "type": "Direct",
-        "requested": "[8.8.0, )",
-        "resolved": "8.8.0",
-        "contentHash": "m0kwcqBwvVel03FuMa7Ozo/oTaxYbjeNlcOhQFkyQpwX/8wks6RNl/Jnn58DCZVs6c2oG1RsCZw7HfKSaxLm3w=="
+        "requested": "[8.9.0, )",
+        "resolved": "8.9.0",
+        "contentHash": "Y5RDjxaVlxWX2yy0X/ay1tJjSKMOtjepSb83mmfngFS63hm3LsoZNj6nhmImzm1ifRmpF9ouvmHjx9nNwnkpDg=="
       },
       "Microsoft.NET.Test.Sdk": {
         "type": "Direct",
@@ -43,8 +43,8 @@
       },
       "CrispyWaffle": {
         "type": "Transitive",
-        "resolved": "10.0.1169",
-        "contentHash": "0oqPUPN6KkYlZMQk2/OzIPNA8LaPl7qn9/eCaRc54a9Oz2aJvBEGYesdLdDZlbx991svyALabPLnHo8487RYhQ==",
+        "resolved": "10.0.1236",
+        "contentHash": "haD+MMeWhg+0DW8OFA+GooRP3iZNfWLQivfR6eVRz0JPTR1126vkxLnOyKYC4vL8p2DWj/rko+CfJXrb+Kt3mA==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.2",
@@ -122,8 +122,8 @@
       },
       "Sankhya": {
         "type": "Transitive",
-        "resolved": "5.0.700",
-        "contentHash": "5Q5GGYM/dSdLO6qYOSgAfoi5iMDFmwHHgG3dSpkjQHuHU0fqYJp/H07Y+GWfWdUQB+XC4xRhSCwLDer7IvtcqA==",
+        "resolved": "5.0.708",
+        "contentHash": "c7YVgRkK2qF6qFnaNEdj/57GEyevodjFdPTHHRsF0H7ECSIMNFWy4t9xFf5eBb/YLpQBpSPcm4MDL3/XEp1fQA==",
         "dependencies": {
           "CrispyWaffle": "10.0.1169",
           "CrispyWaffle.Configuration": "10.0.1169",
@@ -249,8 +249,8 @@
       "editorainovacao.sankhya.entities": {
         "type": "Project",
         "dependencies": {
-          "CrispyWaffle": "[10.0.1169, )",
-          "Sankhya": "[5.0.700, )"
+          "CrispyWaffle": "[10.0.1236, )",
+          "Sankhya": "[5.0.708, )"
         }
       }
     }
