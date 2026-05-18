@@ -4,9 +4,9 @@
     "net8.0": {
       "coverlet.msbuild": {
         "type": "Direct",
-        "requested": "[10.0.0, )",
-        "resolved": "10.0.0",
-        "contentHash": "pmUxktztlMnsIvgHjzxG3fHRAXpqmZSA+W8dIsbVMfwI01SnBndrBIOE3Stg6987+o7HjBa62C4q5um3Ia6d9g=="
+        "requested": "[10.0.1, )",
+        "resolved": "10.0.1",
+        "contentHash": "kb5kBe1HioGuH+ZDKysv/oAO9cCUW2yxtrGrRBZp/dIij5f011OfC4XiNMayZ8bGfOv2+n2ocPkaJIGppAZDEg=="
       },
       "FluentAssertions": {
         "type": "Direct",
@@ -122,8 +122,8 @@
       },
       "Sankhya": {
         "type": "Transitive",
-        "resolved": "5.0.826",
-        "contentHash": "FRrLcm3BF3j6vf9D5xK7ajmUR8NlnLh93+/UU69QjxG/Ww1qfoW22Tl9RIE0i3gYOsXeAV6xF3TUQG1EfJ6jbQ==",
+        "resolved": "5.0.839",
+        "contentHash": "rSv1M/9iVLK0Dhe6gy7dzpuECm7o4A2GSb3zWV/a844rPGl1GH7KF9KogE7ACE6rvhUN60bYi4cnc/jJJCgZAA==",
         "dependencies": {
           "CrispyWaffle": "10.0.1513",
           "CrispyWaffle.Configuration": "10.0.1513",
@@ -250,7 +250,7 @@
         "type": "Project",
         "dependencies": {
           "CrispyWaffle": "[10.0.1513, )",
-          "Sankhya": "[5.0.826, )"
+          "Sankhya": "[5.0.839, )"
         }
       }
     }
