@@ -37,18 +37,18 @@
       },
       "xunit.runner.visualstudio": {
         "type": "Direct",
-        "requested": "[3.1.5, )",
-        "resolved": "3.1.5",
-        "contentHash": "tKi7dSTwP4m5m9eXPM2Ime4Kn7xNf4x4zT9sdLO/G4hZVnQCRiMTWoSZqI/pYTVeI27oPPqHBKYI/DjJ9GsYgA=="
+        "requested": "[4.0.0, )",
+        "resolved": "4.0.0",
+        "contentHash": "kzLFyBYUnoidpGOXvpNOfIo8C92gVgVR6X8ncHwhcrDYugiOut5rrhDkr0L3cWHd7J2pKXf6LgaeXoBBDlx1ag=="
       },
       "CrispyWaffle": {
         "type": "Transitive",
-        "resolved": "10.2.6",
-        "contentHash": "mlu2Do9/LJys3SZ0QRcvICf1U0+oG6dnCpE3Om3Q52REDVriLNvBidRZepiFt9TQljCBRWuIX06y27uRF5wWlQ==",
+        "resolved": "10.2.20",
+        "contentHash": "KYypvJhRZWukeQLfkDrbsA9eBGQjBRBukwvywWxw6KPeexuZ71wcZbAicnjr08dicmtCYaLgqi2utBo01TtkFw==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
-          "System.Security.Permissions": "10.0.3",
-          "System.Text.Json": "10.0.5"
+          "System.Security.Permissions": "10.0.10",
+          "System.Text.Json": "10.0.10"
         }
       },
       "CrispyWaffle.Configuration": {
@@ -121,8 +121,8 @@
       },
       "Sankhya": {
         "type": "Transitive",
-        "resolved": "5.0.930",
-        "contentHash": "reYMlPBJa73BkIzkdl04E8YWygXVibxg2+89kmWNIQVoA/JKSUcSD0oO38GdqTpAdbBXxfRuIP7lA8P2PCUAHg==",
+        "resolved": "5.0.1018",
+        "contentHash": "4hyZwVdIXMYDDFPARadd/OTRcqFsN6jQQkX9X2/kLYAbL371Z5sPBEEGPl3D7BQB2y4qxzZJHAxiuZbOdvpoig==",
         "dependencies": {
           "CrispyWaffle": "10.0.1513",
           "CrispyWaffle.Configuration": "10.0.1513",
@@ -140,8 +140,8 @@
       },
       "System.IO.Pipelines": {
         "type": "Transitive",
-        "resolved": "10.0.5",
-        "contentHash": "8/ZHN/j2y1t+7McdCf1wXku2/c7wtrGLz3WQabIoPuLAn3bHDWT6YOJYreJq8sCMPSo6c8iVYXUdLlFGX5PEqw=="
+        "resolved": "10.0.10",
+        "contentHash": "7WX0W96y3dpQdYG4sEGdh38g3/0lOD4/dKbn2rRVOVzKhzoZUn2gKNIKaFeKWs8RCbpFfmmEWsRhSy95hMpvqA=="
       },
       "System.Memory": {
         "type": "Transitive",
@@ -167,24 +167,24 @@
       },
       "System.Security.Permissions": {
         "type": "Transitive",
-        "resolved": "10.0.3",
-        "contentHash": "kuqE2IzQ4lE92519tV9z5asKOXk/budCwryp1C53zCdaUls0+mWlGfmxiiQOpOkVkPPeIx1U7yCswaknBjhEOQ==",
+        "resolved": "10.0.10",
+        "contentHash": "qFSOZHMuNkkssIYx/ftErn51G5+GFt4/4+K6yr3hZRH26500o0QO4E9ui/F9ZzYoV0QXlBpd7JdyZ4Mn0n+7IQ==",
         "dependencies": {
-          "System.Windows.Extensions": "10.0.3"
+          "System.Windows.Extensions": "10.0.10"
         }
       },
       "System.Text.Encodings.Web": {
         "type": "Transitive",
-        "resolved": "10.0.5",
-        "contentHash": "opvD/nKTzGKA7GVntZ9L823kN6IxgHQfuxY+VI9gv8VE1Y7CSKoi/QS1EYDQiA63MqtZsD7X6zkISd2ZQJohTQ=="
+        "resolved": "10.0.10",
+        "contentHash": "o16m2YpDN/pjHsnxf9pTGwkpcuvjW8v1/wGUwJtM1c3QZUKm7ZEO/eYRJg7iIx6GxS2Zv9lAMHpiQwHDdgqauA=="
       },
       "System.Text.Json": {
         "type": "Transitive",
-        "resolved": "10.0.5",
-        "contentHash": "vW2zhkWziyfhoSXNf42mTWyilw+vfwBGOsODDsHSFtOIY6LCgfRVUyaAilLEL4Kc1fzhaxcep5pS0VWYPSDW0w==",
+        "resolved": "10.0.10",
+        "contentHash": "bmsO6UdYtBdtn32zYXfsh7KlyTIzV/3V9hdT9RIb4pXKgYOsNxXR+VbWigNwBtNFVGYGm6Hwmqw5a+/IWFd36Q==",
         "dependencies": {
-          "System.IO.Pipelines": "10.0.5",
-          "System.Text.Encodings.Web": "10.0.5"
+          "System.IO.Pipelines": "10.0.10",
+          "System.Text.Encodings.Web": "10.0.10"
         }
       },
       "System.Text.RegularExpressions": {
@@ -202,8 +202,8 @@
       },
       "System.Windows.Extensions": {
         "type": "Transitive",
-        "resolved": "10.0.3",
-        "contentHash": "TZ/9e7JLxAT3j66XuNh7Bbqfz1m7UZC92uLknoldmALo82OYhrb4e8LGQ0S3umh2M+JQ94qQpLvPXIkmyuMraw=="
+        "resolved": "10.0.10",
+        "contentHash": "Jat4EYE3Z7M66YsGihR24WOSO0pIWvxC+k6QG7/JnSepR+ObanaTjrl1TCN/1uMlBdBhFCfO/GjbMP24TJiRGQ=="
       },
       "xunit.abstractions": {
         "type": "Transitive",
@@ -248,8 +248,8 @@
       "editorainovacao.sankhya.entities": {
         "type": "Project",
         "dependencies": {
-          "CrispyWaffle": "[10.2.6, )",
-          "Sankhya": "[5.0.930, )"
+          "CrispyWaffle": "[10.2.20, )",
+          "Sankhya": "[5.0.1018, )"
         }
       }
     }
