@@ -15,9 +15,9 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[5.0.1072, )",
-        "resolved": "5.0.1072",
-        "contentHash": "mLvdO/RbW+wESbj+ug/p6OWE60Ls9Bb3LQ834eSPhzSWmxUXakntNcLvMvG7Cn2hrTw/oJ3HwSnejLpbNzW3zg==",
+        "requested": "[5.0.1084, )",
+        "resolved": "5.0.1084",
+        "contentHash": "32nDEnw20LH5cY9xXr7i+ybEtgmvyyCfQAdCTocQaS6qe9BnvzDU9G1g3iqyERYZJcOxQRVrRHr+mSxvur08mw==",
         "dependencies": {
           "CrispyWaffle": "10.0.1513",
           "CrispyWaffle.Configuration": "10.0.1513",
