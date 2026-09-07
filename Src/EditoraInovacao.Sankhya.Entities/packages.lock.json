@@ -4,9 +4,9 @@
     ".NETStandard,Version=v2.1": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.2.26, )",
-        "resolved": "10.2.26",
-        "contentHash": "kLFt2U6szaPWuptE/Hp4sVZeXKQzhW6LZ2BtLLyg045q4I45YrQHh96r4hkAquxNjMu2OBqxBqqOU+t3705nvw==",
+        "requested": "[10.2.29, )",
+        "resolved": "10.2.29",
+        "contentHash": "R3m39ufRx7EZr2gk4EpItK15mXjYp71RDPjx9kyytHlkfwtkgMufxluGtj2UMvuSJ9j9JQ9uyNE372m395F24Q==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.11",
