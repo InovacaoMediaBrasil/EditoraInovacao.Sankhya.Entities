@@ -4,13 +4,15 @@
     ".NETStandard,Version=v2.1": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.2.35, )",
-        "resolved": "10.2.35",
-        "contentHash": "yapqwPCedYJllL4fTEqpv4WY8p4WHgWmhMMka3cqhvV3Z4sP/ufKXaREaJrevvI+eRtGN0L0IbQEBhvxMtgkNA==",
+        "requested": "[10.4.6, )",
+        "resolved": "10.4.6",
+        "contentHash": "BopBbiO6o0DH++qJCmuFFkrGjtVqtCDZsdmDz1mLi2lLn7UOhncqvGpYWyEPc6+7MMDr2U8a+DQZ0ng56u5CWw==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.12",
-          "System.Text.Json": "10.0.12"
+          "System.Text.Json": "10.0.12",
+          "Tomlyn": "2.10.1",
+          "YamlDotNet": "18.1.0"
         }
       },
       "Sankhya": {
@@ -93,6 +95,15 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Collections.Immutable": {
+        "type": "Transitive",
+        "resolved": "9.0.0",
+        "contentHash": "QhkXUl2gNrQtvPmtBTQHb0YsUrDiDQ2QS09YbtTTiSjGcf7NBqtYbrG/BE06zcBPCKEwQGzIv13IVdXNOSub2w==",
+        "dependencies": {
+          "System.Memory": "4.5.5",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
       "System.Globalization": {
@@ -281,6 +292,21 @@
         "type": "Transitive",
         "resolved": "4.6.3",
         "contentHash": "7sCiwilJLYbTZELaKnc7RecBBXWXA+xMLQWZKWawBxYjp6DBlSE3v9/UcvKBvr1vv2tTOhipiogM8rRmxlhrVA=="
+      },
+      "Tomlyn": {
+        "type": "Transitive",
+        "resolved": "2.10.1",
+        "contentHash": "ykjOY3IpYmC4SpPcAZRTl/w2jTmhPMDydHq8xcV7tTBAQ22nKBsOkPqauIrZlMjHm03cmKfV23UOPscKp+J4Og==",
+        "dependencies": {
+          "System.Buffers": "4.6.1",
+          "System.Collections.Immutable": "9.0.0",
+          "System.Text.Json": "10.0.2"
+        }
+      },
+      "YamlDotNet": {
+        "type": "Transitive",
+        "resolved": "18.1.0",
+        "contentHash": "5K+9KFg2TdTl7VXv88Qzi/0lqK6JFoNP3lRuImPYGRV7K/QYklDyTrj4+A+KAki1JsQi6qKY+hDyY7d6WRqjrw=="
       }
     }
   }
