@@ -17,12 +17,12 @@
       },
       "Sankhya": {
         "type": "Direct",
-        "requested": "[5.1.60, )",
-        "resolved": "5.1.60",
-        "contentHash": "EtwHh/pCPt868xDwb07qh360J/GrnbnuQAVTCFlGkGeh4srSJaJx5n7s5i9pFn1BqfoCpyEAZrJkL3Wne2vKkw==",
+        "requested": "[5.1.99, )",
+        "resolved": "5.1.99",
+        "contentHash": "skk7nMFWwoooCTcC4KrMmSUsJ2XZ9P/qWt9e3HuthrRHXkRPvrqB8oNLAgYofL+bW2I8NFYJ28d+2LonijqVtw==",
         "dependencies": {
-          "CrispyWaffle": "10.0.1513",
-          "CrispyWaffle.Configuration": "10.0.1513",
+          "CrispyWaffle": "10.4.12",
+          "CrispyWaffle.Configuration": "10.4.12",
           "Microsoft.AspNet.WebApi.Client": "6.0.0",
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.4",
@@ -32,10 +32,10 @@
       },
       "CrispyWaffle.Configuration": {
         "type": "Transitive",
-        "resolved": "10.0.1513",
-        "contentHash": "w/3A0x/k0SbKY1JnooC1ZqycyPhZhfhCwYJpRe2mCJujdesIxtyNTdsldKjsSl/0+dtFOIVDLUGZtHqpKvYQiA==",
+        "resolved": "10.4.12",
+        "contentHash": "kqFGESUxswq9YOy0zXnacMT9YM0RR0XHew+wlQbSx7pKrf4GZCBqeEvxuEHlrArSPCIx8P5Qi/Eo7JS51JU+BQ==",
         "dependencies": {
-          "CrispyWaffle": "10.0.1513"
+          "CrispyWaffle": "10.4.12"
         }
       },
       "Microsoft.AspNet.WebApi.Client": {
