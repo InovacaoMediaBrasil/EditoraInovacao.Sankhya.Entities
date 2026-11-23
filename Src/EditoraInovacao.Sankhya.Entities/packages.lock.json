@@ -4,9 +4,9 @@
     ".NETStandard,Version=v2.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.5.8, )",
-        "resolved": "10.5.8",
-        "contentHash": "B9MXbr7Vo65UUjqmpYWOu1QGAKkLTR7i94pGx2DiZ/sKmDhS1ODRGGAwHsmvlDSPc/xKEvxjK9gbpHXwfY3w+g==",
+        "requested": "[10.5.16, )",
+        "resolved": "10.5.16",
+        "contentHash": "F7XA+Hqbm00JFhHoHcfVPIv5eBH6FWb98H4QttKHKiUOP/PKMwlu3iQprr96FDAodb2hGb2BOMvlbKAbib+k5w==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.12",
@@ -337,9 +337,9 @@
     ".NETStandard,Version=v2.1": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.5.8, )",
-        "resolved": "10.5.8",
-        "contentHash": "B9MXbr7Vo65UUjqmpYWOu1QGAKkLTR7i94pGx2DiZ/sKmDhS1ODRGGAwHsmvlDSPc/xKEvxjK9gbpHXwfY3w+g==",
+        "requested": "[10.5.16, )",
+        "resolved": "10.5.16",
+        "contentHash": "F7XA+Hqbm00JFhHoHcfVPIv5eBH6FWb98H4QttKHKiUOP/PKMwlu3iQprr96FDAodb2hGb2BOMvlbKAbib+k5w==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.12",
@@ -645,9 +645,9 @@
     "net8.0": {
       "CrispyWaffle": {
         "type": "Direct",
-        "requested": "[10.5.8, )",
-        "resolved": "10.5.8",
-        "contentHash": "B9MXbr7Vo65UUjqmpYWOu1QGAKkLTR7i94pGx2DiZ/sKmDhS1ODRGGAwHsmvlDSPc/xKEvxjK9gbpHXwfY3w+g==",
+        "requested": "[10.5.16, )",
+        "resolved": "10.5.16",
+        "contentHash": "F7XA+Hqbm00JFhHoHcfVPIv5eBH6FWb98H4QttKHKiUOP/PKMwlu3iQprr96FDAodb2hGb2BOMvlbKAbib+k5w==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "System.Security.Permissions": "10.0.12",
